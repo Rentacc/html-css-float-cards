@@ -1,0 +1,16 @@
+#titolo{
+    color: salmon;
+    text-align: center;
+}
+
+#sottotitolo{
+    color: blue;
+}
+
+.business-card-image{
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
