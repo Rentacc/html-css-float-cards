@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 #titolo{
     color: salmon;
     text-align: center;
@@ -13,4 +17,12 @@
 
 .clear{
     clear: both;
+}
+
+.business-card{
+    background-color: black;
+}
+
+h2,h3{
+    color: white;
 }
