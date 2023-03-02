@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
 
 #titolo{
@@ -13,14 +15,46 @@
 
 .business-card-image{
     float: left;
+    
+}
+
+.business-card-text{
+    float: right;
+    margin-right: 30px;
+    
+}
+
+#fototessera{
+    width: 100px;
+    margin-right: .7rem;
 }
 
 .clear{
     clear: both;
 }
 
-.business-card{
+.business-card-row1{
     background-color: black;
+    max-width: 400px;
+    font-size: 60%;
+    float: left;
+    margin-right: 1rem;
+   
+    
+    
+}
+
+.row1{
+    margin: auto;
+}
+.business-card-row2{
+    background-color: black;
+    max-width: 400px;
+    font-size: 60%;
+    float: left;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    
 }
 
 h2,h3{
